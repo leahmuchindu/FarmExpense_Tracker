@@ -1,0 +1,19 @@
+date,farm_type,type,category,item,quantity,brand,amount,description
+2026-07-03,Crop Farming,Outflow,Seeds,Maize Seed,3kg,Brand A,300.00,
+2026-07-10,Crop Farming,Outflow,Fertilizer,Fertilizer Mix,2 bags,,200.00,
+2026-07-28,Crop Farming,Inflow,Crop Sale,,,,1000.00,Crop Sale #101 - Farm A
+2026-08-05,Crop Farming,Outflow,Labor,Harvest Help,5 days,,250.00,
+2026-08-20,Crop Farming,Inflow,Crop Sale,,,,800.00,Crop Sale #102 - Farm A
+2026-09-02,Crop Farming,Outflow,Pesticides,Pest Spray,1 litre,Brand C,100.00,
+2026-07-06,Livestock Farming,Outflow,Feed,Cattle Feed,5 bags,Brand B,400.00,
+2026-07-15,Livestock Farming,Outflow,Veterinary & Medicine,Vaccines,10 doses,,150.00,
+2026-07-30,Livestock Farming,Inflow,Livestock Sale,,,,1200.00,Livestock Sale #201 - Farm A
+2026-08-12,Livestock Farming,Inflow,Milk / Eggs / Produce,,,,300.00,Milk Sale #202 - Vendor 1
+2026-09-08,Livestock Farming,Outflow,Feed,Cattle Feed,4 bags,Brand B,350.00,
+2026-07-04,Poultry Farming,Outflow,Chicks,Day-old Chicks,100 chicks,Hatchery 1,200.00,
+2026-07-18,Poultry Farming,Outflow,Poultry Feed,Layer Mash,6 bags,Brand E,300.00,
+2026-08-09,Poultry Farming,Inflow,Egg Sales,,,,450.00,Egg Sale #301 - Vendor 2
+2026-09-05,Poultry Farming,Inflow,Bird Sales,,,,350.00,Bird Sale #302 - Farm B
+2026-07-08,Aquaculture,Outflow,Fingerlings,Tilapia Fingerlings,500 pcs,Hatchery 2,250.00,
+2026-08-02,Aquaculture,Outflow,Fish Feed,Floating Pellets,3 bags,Brand F,180.00,
+2026-09-12,Aquaculture,Inflow,Fish Sales,,,,700.00,Fish Sale #401 - Vendor 3

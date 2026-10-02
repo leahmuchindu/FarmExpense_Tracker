@@ -1,0 +1,13 @@
+date,farm_type,type,category,item,quantity,brand,amount,description
+2026-07-03,Crop Farming,Outflow,Seeds,Maize Seed,3kg,Brand A,300.00,
+2026-07-10,Crop Farming,Outflow,Fertilizer,Fertilizer Mix,2 bags,,200.00,
+2026-07-28,Crop Farming,Inflow,Crop Sale,,,,1000.00,Crop Sale #101 - Farm A
+2026-08-05,Crop Farming,Outflow,Labor,Harvest Help,5 days,,250.00,
+2026-08-20,Crop Farming,Inflow,Crop Sale,,,,800.00,Crop Sale #102 - Farm A
+2026-09-02,Crop Farming,Outflow,Pesticides,Pest Spray,1 litre,Brand C,100.00,
+2026-07-06,Livestock Farming,Outflow,Feed,Cattle Feed,5 bags,Brand B,400.00,
+2026-07-15,Livestock Farming,Outflow,Veterinary & Medicine,Vaccines,10 doses,,150.00,
+2026-07-30,Livestock Farming,Inflow,Livestock Sale,,,,1200.00,Livestock Sale #201 - Farm A
+2026-08-12,Livestock Farming,Inflow,Milk / Eggs / Produce,,,,300.00,Milk Sale #202 - Vendor 1
+2026-09-08,Livestock Farming,Outflow,Feed,Cattle Feed,4 bags,Brand B,350.00,
+2026-09-24,Crop Farming,Inflow,Crop Sale,,,,60.0,
